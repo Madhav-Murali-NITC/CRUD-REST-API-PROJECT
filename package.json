@@ -1,0 +1,17 @@
+{
+  "name": "crud-rest-api-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start" :"nodemon app.js"
+  },
+  "author": "madhav",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.1.1",
+    "nodemon": "^3.0.3"
+  }
+}
